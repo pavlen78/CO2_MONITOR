@@ -1,6 +1,6 @@
 idf_component_register(
     SRCS
-        "packet.c"
+        "app_main.cpp"
 
     INCLUDE_DIRS
         "."
